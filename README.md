@@ -27,4 +27,8 @@ Sources
     *   http://blog.owenson.me/build-your-own-quadcopter-flight-controller/ - Drone Control (ArduPilot)
     * http://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-pair-bind-and-link/ - Bluetooth
     * https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora-sx1272-module-shield-arduino-raspberry-pi-intel-galileo#step6_1 - Radio communcations (Drone to base)
+ 
+NOTE
+-----
+All the code is fully owned by the creators listed in the sources above. The team H2nOde does not claim ownership of any of the content in the repository. It serves solely as a compilation of all the code required for our project.
 
