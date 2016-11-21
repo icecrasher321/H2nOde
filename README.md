@@ -26,4 +26,5 @@ Sources
     *   https://forum.arduino.cc/index.php?topic=333319.0  - Static Node Data Collection
     *   http://blog.owenson.me/build-your-own-quadcopter-flight-controller/ - Drone Control (ArduPilot)
     * http://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-pair-bind-and-link/ - Bluetooth
+    * https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora-sx1272-module-shield-arduino-raspberry-pi-intel-galileo#step6_1 - Radio communcations (Drone to base)
 
