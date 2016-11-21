@@ -27,8 +27,8 @@ void setup()
     Serial.println("Arduino with HC-05 is ready");
  
     // start communication with the HC-05 using 38400
-    BTserial.begin(38400);  
-    Serial.println("BTserial started at 38400");
+    BTserial.begin(9600);  
+    Serial.println("BTserial started at 9600");
 }
  
 void loop()
