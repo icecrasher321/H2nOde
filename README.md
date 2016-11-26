@@ -23,7 +23,7 @@ Approach
 
 Sources
 -----
-    *   https://forum.arduino.cc/index.php?topic=333319.0  - Static Node Data Collection
+    *   https://github.com/cyberplantru/EC-Mini-v30-Sample-Code/blob/master/ECMeasurementSerial/ECMeasurementSerial.ino  - Static Node Data Collection
     *   http://blog.owenson.me/build-your-own-quadcopter-flight-controller/ - Drone Control (ArduPilot)
     * https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora-sx1272-module-shield-arduino-raspberry-pi-intel-galileo#step6_1 - Radio communcations (Drone to base)
     * http://www.monocilindro.com/2016/03/28/reading-gps-data-using-arduino-and-a-u-blox-neo-6m-gps-receiver/ - GPS 
