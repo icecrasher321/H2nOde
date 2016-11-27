@@ -27,6 +27,7 @@ Sources
     *   http://blog.owenson.me/build-your-own-quadcopter-flight-controller/ - Drone Control (ArduPilot)
     * https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora-sx1272-module-shield-arduino-raspberry-pi-intel-galileo#step6_1 - Radio communcations (Drone to base)
     * http://www.monocilindro.com/2016/03/28/reading-gps-data-using-arduino-and-a-u-blox-neo-6m-gps-receiver/ - GPS 
+    * ALL COMMUNICATION(RF) AND DATA COLLECTION CODE (for static nodes) IS PROVIDED ON THE MANUFACTURER'S WEBSITE.
  
 NOTE
 -----
